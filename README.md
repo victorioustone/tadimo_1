@@ -8,3 +8,4 @@ _6 семестр, 2022_
 5. [Парная линейная регрессия](https://github.com/victorioustone/ml_labs/blob/main/sem05/ML1.1_Каменчук.ipynb)
 6. [Множественная линейная регрессия на чистых данных](https://github.com/victorioustone/ml_labs/blob/main/sem06/ML1.2_Каменчук.ipynb)
 7. [LogisticRegression, KNeighborsClassifier, DecisionTreeClassifier](https://github.com/victorioustone/ml_labs/blob/main/sem07/Каменчук_ПИ19-1.ipynb)
+8. [Классификация изображений](https://github.com/victorioustone/ml_labs/blob/main/sem08/ML2.2_Каменчук_ПИ19-1.ipynb)
