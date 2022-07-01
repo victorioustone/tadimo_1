@@ -15,3 +15,7 @@ _6 семестр, 2022_
 12. [Предобработка данных 2](https://github.com/victorioustone/ml_labs/blob/main/sem11/ML4.2.ipynb)
 13. [Кластеризация (beverage)](https://github.com/victorioustone/ml_labs/blob/main/sem12/Кластеризация%20(beverage).ipynb)
 14. [Кластеризация (2_pretendent)](https://github.com/victorioustone/ml_labs/blob/main/sem12/Кластеризация%20(2_pretendent).ipynb)
+
+#### Файлы к экзамену
+1. [Mushroom classification](https://github.com/victorioustone/ml_labs/blob/main/exam/dset1.ipynb)
+2. [Income classification](https://github.com/victorioustone/ml_labs/blob/main/exam/dset2.ipynb)
