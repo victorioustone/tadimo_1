@@ -1,5 +1,6 @@
 # Технологии анализа данных и машинное обучение
-###### 6 семестр, 2022
+##### 6 семестр (2021), ПИ, ИТиАБД 
+###### Финансовый университет при Правительстве РФ
 
 1. [Основы работы с numpy](https://github.com/victorioustone/ml_labs/blob/main/sem01/ML0.1.ipynb)
 2. [Основы работы с pandas](https://github.com/victorioustone/ml_labs/blob/main/sem02/ML0.2.ipynb)
